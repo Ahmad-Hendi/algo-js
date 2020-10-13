@@ -21,5 +21,6 @@ console.log(duplicate)
 // let duplicate = [];
 
 // for (let duplicate of arr){
-//     console.log(duplicate)
-// }
+    duplicate.push
+    // }
+    //     console.log(duplicate)
