@@ -16,4 +16,13 @@ for (let i = 0; i < arr2.length; i++){
 console.log(averg)
 
 
+// doing the exrcies in a differnt way
+let test = Math.max(...[100, 101, 102]);
+console.log(test / 2)
+
+
+
+
+
+
 

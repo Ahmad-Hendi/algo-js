@@ -17,10 +17,15 @@ for (let i = 0; i < arr.length; i++){
 }
 console.log(duplicate)
 
+// duplicate.push
+
+
+
+
+
 // let arr = [1,2,3,4,5];
 // let duplicate = [];
 
 // for (let duplicate of arr){
-    duplicate.push
     // }
     //     console.log(duplicate)
